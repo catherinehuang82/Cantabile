@@ -1,6 +1,7 @@
 # Cantabile
 
 GOOGLE CSSI 2020 FINAL PROJECT
+
 Creators: Catherine Huang and Catherine Ji
 
 Cantabile! is a music notation software that plays the musical notes that the user places.
